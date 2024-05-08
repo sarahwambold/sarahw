@@ -1,2 +1,2 @@
-# sarahw
-config files for my github profile
+# Sarah Wambold
+Welcome to my github profile!
